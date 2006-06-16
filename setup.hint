@@ -1,0 +1,4 @@
+category: X11
+requires: cygwin crypt libX11_6 libXaw8 libXext6 libXmu6 libXpm4
+sdesc: "Xorg X Display Manager"
+ldesc: "Xorg X Display Manager"
