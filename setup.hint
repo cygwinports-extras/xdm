@@ -1,4 +1,4 @@
 category: X11
-requires: cygwin crypt libX11_6 libXaw8 libXext6 libXmu6 libXpm4 sessreg
+requires: cygwin crypt libX11_6 libXau6 libXaw8 libXdmcp6 libXext6 libXft2 libXmu6 libXpm4 libXrender1 libXt6 sessreg
 sdesc: "Xorg X Display Manager"
 ldesc: "Xorg X Display Manager"
