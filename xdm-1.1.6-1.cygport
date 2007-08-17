@@ -1,0 +1,4 @@
+inherit xorg
+
+CYGCONF_ARGS="--with-xdmlibdir=/etc/X11/xdm --disable-dynamic-greeter \
+	--disable-xinerama"
